@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "main",
+    "type": "split",
+    "children": [
+      {
+        "id": "tabs",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "leaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INDEX.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "lsplit",
+    "type": "split",
+    "children": [
+      {
+        "id": "ltabs",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "lfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "lsr",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "rsplit",
+    "type": "split",
+    "children": [
+      {
+        "id": "rtabs",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "rbl",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "showSearch": false,
+                "searchQuery": "",
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "rol",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320,
+    "collapsed": false
+  },
+  "active": "leaf",
+  "lastOpenFiles": [
+    "INDEX.md"
+  ]
+}
