@@ -1,59 +1,81 @@
 ---
-title: Second brain starter
-type: index
-created: 2026-08-05
+title: Series brain index
+type: reference
+status: active
 ---
 
-# Second brain starter
+# Series brain index
 
-The one page that says what is in here. Read this first, then open only the
-note you need.
+The one-page map of the whole series brain. Read this first, then open only the
+file you need. Links are relative to this folder.
 
-This is a small second brain about the thing you are living through: the four
-week Second Brain Blueprint. It was built with the same six moves you did on
-the stream, so you can take it apart and see how it was made.
+## 00_Inbox
 
-## Start here
+Raw captures, not yet filed. Emptied weekly.
 
-- [[README]] - what this folder is, and the six labs written out as steps
-- [[CONNECT-AN-AI]] - how to point an AI at this folder and talk to it
-- [[WHAT-NEXT]] - the free course, and how to get a hand with your own material
+| Note | What it is |
+|---|---|
+| [[00_Inbox/2026-07-27-voice-memo-part3-demo|Voice memo: a Part 3 demo idea]] | A thought dictated on a walk, untouched. |
+| [[00_Inbox/clipped-viewer-question|Clipped: a viewer question to answer live]] | A comment worth building a segment around. |
 
-## The idea
+## 01_Strategy
 
-- [[The north star]] - the one sentence the whole series ladders back to
-- [[What a second brain is]] - and, just as usefully, what it is not
+Why the series exists and how we know it worked.
 
-## The four weeks
+| Note | What it covers |
+|---|---|
+| [[01_Strategy/north-star|North star]] | The one sentence everything ladders back to. |
+| [[01_Strategy/gtm-strategy|GTM strategy]] | How a free live series turns strangers into a community, and how that pays for itself. |
+| [[01_Strategy/success-measures|Success measures]] | What we count, and what we deliberately don't. |
 
-- [[Part 1 - why build one]] - Wed 29 Jul. Why almost nothing you consume compounds
-- [[Part 2 - your first vault]] - Wed 5 Aug. Markdown from zero, and your first note
-- [[Part 3 - hand the tidying over]] - Wed 12 Aug. An assistant files it, you get the last word
-- [[Part 4 - keep it alive]] - Wed 19 Aug. The loop that survives a busy week
+## 02_Audience
 
-## The two things part 2 taught
+Who it is for and what they get.
 
-- [[Markdown in five marks]] - the whole syntax, and there really are only five
-- [[Front matter]] - the little block at the top, and what it is for
+| Note | What it covers |
+|---|---|
+| [[02_Audience/icp|ICP: who this is for]] | The ideal viewer, in one place. |
+| [[02_Audience/persona-ld-lead|Persona: the L&D lead]] | Owns capability in an organisation. |
+| [[02_Audience/persona-marketer|Persona: the marketer]] | Turns ideas into content that compounds. |
+| [[02_Audience/persona-creator|Persona: the creator]] | Building an audience from their own expertise. |
+| [[02_Audience/what-you-get|What you get out of it]] | The concrete outcome, week by week. |
 
-## The notes written live on the stream
+## 03_Series
 
-- [[What actually makes our content land]] - the first note, typed from nothing on air
-- [[Things that landed]] - the second note, and the link that connects them
+The four weeks, and the spine that runs through them.
 
-## Where this goes next
+| Note | What it covers |
+|---|---|
+| [[03_Series/README|Series overview + the six beats]] | The arc and the through-lines. |
+| [[03_Series/part-1-why-build-one|Part 1: why build one]] | The intro. Shipped 29 Jul. |
+| [[03_Series/part-2-your-first-vault|Part 2: your first vault]] | Markdown from zero. |
+| [[03_Series/part-3-hand-it-over|Part 3: hand the tidying over]] | AI files it, you get the last word. |
+| [[03_Series/part-4-keep-it-alive|Part 4: keep it alive]] | The loop that survives a busy week. |
 
-- [[INDEX - finished example]] - open the **Finished example** folder. That is a
-  second brain after months of use, the one shown at the end of the stream. Same
-  five marks, same front matter, same links, just more of it. Read it to see
-  where a handful of notes ends up.
+## 04_Brand
 
-## How this works
+How it looks and sounds.
 
-- One idea per file
-- Front matter at the top, so you can find things later
-- Links between notes, so the vault tells you what connects to what
-- This index at the front, so you never have to remember the whole thing
+| Note | What it covers |
+|---|---|
+| [[04_Brand/brand-kit|Brand kit]] | Colour, type, motif — the whole system on one page. |
+| [[04_Brand/voice|Voice]] | How we write and speak. |
 
-Nothing in here is finished. That is the point. Change it, delete half of it,
-write over the rest. It is your folder now.
+## 05_Skills
+
+The payoff: what you build on top of a second brain.
+
+| Note | What it covers |
+|---|---|
+| [[05_Skills/what-are-skills|What "skills on top" means]] | The idea, in plain English. |
+| [[05_Skills/data-skills-workflows|The Data → Skills → Workflows ladder]] | Why the brain is only step one. |
+| [[05_Skills/example-skills|Example skills you can build]] | Concrete, do-it-this-week examples. |
+
+## 06_Sources
+
+Where this idea comes from.
+
+| Note | What it covers |
+|---|---|
+| [[06_Sources/hundred-year-story|The hundred-year story]] | Commonplace books to the memex to today. |
+| [[06_Sources/the-thinkers|The thinkers]] | Forte, Bush, Karpathy — the shoulders we stand on. |
