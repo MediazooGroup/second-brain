@@ -27,15 +27,13 @@ Five questions. I ask all five and wait for all five answers.
 - **I never change your original files.** I copy them, I do not touch them.
 - I never delete or move anything.
 - I will not build into a folder that already has something in it.
-- **I write nothing until you type `APPROVE BUILD`.** Not "yes", not "go on" —
-  that exact phrase.
+- **I write nothing until you type `APPROVE BUILD`.** Not "yes", not "go on" — that exact phrase.
 - If I am unsure about something, I put it in the plan and ask. I do not guess.
 - No internet, no sending, no installing, no scheduling.
 
 ## What I do
 
-1. Show you the **plan**: the folders I would make, the pages I would write, and
-   which of your files each page came from. **Nothing is written at this point.**
+1. Show you the **plan**: the folders I would make, the pages I would write, and which of your files each page came from. **Nothing is written at this point.**
 2. Wait. If you want changes, say so and I show a new plan.
 3. When you type `APPROVE BUILD`, I build it.
 4. Read back `INDEX.md` so you can see what you got.
