@@ -70,6 +70,8 @@ The payoff: what you build on top of a second brain.
 | [[05_Skills/what-are-skills|What "skills on top" means]] | The idea, in plain English. |
 | [[05_Skills/data-skills-workflows|The Data → Skills → Workflows ladder]] | Why the brain is only step one. |
 | [[05_Skills/example-skills|Example skills you can build]] | Concrete, do-it-this-week examples. |
+| [[05_Skills/second-brain-builder/SKILL|second-brain-builder]] | The part 3 skill: builds a new brain from a folder of sources. Preview first, then `APPROVE BUILD`. |
+| [[05_Skills/second-brain-updater/SKILL|second-brain-updater]] | The part 3 skill: files new inbox material. Propose, amend, `APPROVE UPDATE`, receipt. |
 
 ## 06_Sources
 
