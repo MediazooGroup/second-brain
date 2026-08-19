@@ -27,8 +27,8 @@ content.
 
 - **The filer** (this is Part 3). "Take this messy source and turn it into a
   clean, properly filed note. Show me before you save."
-- **The weekly review** (this is Part 4). "Walk my inbox with me, suggest where
-  each capture should go, and flag anything I've left raw too long."
+- **The weekly review.** "Walk my inbox with me, suggest where each capture
+  should go, and flag anything I've left raw too long."
 - **The connector.** "What in my brain relates to [theme]? Show me links I might
   have missed." Surfaces thinking you forgot you had.
 - **The catch-up.** "Summarise everything I've captured this month and tell me

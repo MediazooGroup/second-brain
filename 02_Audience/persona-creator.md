@@ -34,4 +34,4 @@ half-finished drafts and screenshots that never become anything.
 
 Capture fast, process into atoms, and let the AI help you create — that is the
 whole loop. This persona feels the "consume vs compound" pain most sharply. See
-[[03_Series/part-4-keep-it-alive]] for the habit that saves them.
+[[03_Series/part-3-hand-it-over]] for the habit that saves them.

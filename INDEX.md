@@ -50,7 +50,7 @@ The four weeks, and the spine that runs through them.
 | [[03_Series/part-1-why-build-one|Part 1: why build one]] | The intro. Shipped 29 Jul. |
 | [[03_Series/part-2-your-first-vault|Part 2: your first vault]] | Markdown from zero. |
 | [[03_Series/part-3-hand-it-over|Part 3: hand the tidying over]] | AI files it, you get the last word. |
-| [[03_Series/part-4-keep-it-alive|Part 4: keep it alive]] | The loop that survives a busy week. |
+| [[03_Series/part-4-keep-it-alive|Part 4: growing it]] | The same idea at business size: organisation, department, project. |
 
 ## 04_Brand
 

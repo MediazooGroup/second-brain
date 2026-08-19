@@ -24,8 +24,8 @@ brain is — you *have* one, and it is working.
 - **A first set of notes** shaped around your own questions, not someone else's
   system.
 - **An assistant that files and connects for you**, while you keep the last word.
-- **A keep-alive loop** — capture, sweep, review — pinned to a real day of your
-  real week, so it survives when you get busy.
+- **A way to grow it beyond yourself** — the same habit pointed at a project,
+  a department or a whole organisation, with three worked examples to copy.
 - **The confidence to build skills on top of it** (see `05_Skills/`), which is
   where it stops being notes and starts being leverage.
 
@@ -36,14 +36,14 @@ brain is — you *have* one, and it is working.
 | Part 1 (done) | The clear picture of what a second brain is, why now, and one quick win you can do today. |
 | Part 2 | Your first real note, and a home for it. Markdown stops being scary. |
 | Part 3 | An assistant filing a mess into a clean note, on your terms. |
-| Part 4 | A loop that keeps it alive, and a look back at everything you built. |
+| Part 4 | Three example brains at business size, and the argument for one where you work. |
 
 ## Why it sticks (unlike the last app you abandoned)
 
 Every note system you have quit died the same way: it made staying organised
 *your* job, forever. This one hands the tidying to an assistant and keeps you to
 the one thing only you can do — judgement. That is the difference. See
-[[03_Series/part-4-keep-it-alive]].
+[[03_Series/part-3-hand-it-over]].
 
 ## Related
 

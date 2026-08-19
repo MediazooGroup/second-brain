@@ -10,15 +10,15 @@ status: locked
 # The Second Brain Blueprint — series overview
 
 One live series, four Wednesdays, 1pm to 2pm BST, on the Mediazoo YouTube
-channel and simulcast to LinkedIn. Part 1 was a 30-minute intro; Parts 2 to
-4 are an hour each.
+channel and simulcast to LinkedIn. Part 1 was a 30-minute intro; Parts 2 and
+3 are an hour each; Part 4 is a tighter forty five minutes.
 
 | Part | Date (Wed, 1pm BST) | Title | In one line |
 |---|---|---|---|
 | **1** | 29 Jul | Why build one | You consume more than ever and almost none of it compounds. See what a second brain is, and watch a real one work. |
 | **2** | 5 Aug | Your first vault | Markdown from zero and your first real note, in files you own, shaped around your own questions. |
 | **3** | 12 Aug | Hand the tidying over | Watch an assistant file a mess into a clean note, then keep a living wiki current, with you getting the last word every time. |
-| **4** | 19 Aug | Keep it alive | The loop that survives a busy week: capture, sweep, review. Then we stand back and look at everything you built. |
+| **4** | 19 Aug | Growing it | The same idea at three more sizes: an organisational brain, a departmental brain, and a project brain running at a deadline. |
 
 ## The six beats (the spine)
 
@@ -37,7 +37,7 @@ streams each deliver a share.
 - **Part 1 (intro):** plants all six; teaches beats 1 and 2; tastes 3 and 4.
 - **Part 2:** delivers beat 5 (structure) and lays the ground for beat 3.
 - **Part 3:** delivers beat 4 (AI reasoning with you) and beat 3 in full.
-- **Part 4:** delivers beat 6 (the goal is better thinking) — the payoff.
+- **Part 4:** delivers beat 6 (the goal is better thinking) at business size — the payoff.
 
 The through-line stays explicit: every stream ladders back to the north star, so
 a viewer who joins at Part 3 still knows what it is all for.

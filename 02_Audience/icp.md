@@ -44,7 +44,7 @@ consume, and make it produce something.**
 - Every example is about **ideas and content that compound**, never abstract
   productivity.
 - We start from absolute zero on anything technical (see Part 2).
-- We meet the "I've abandoned notes apps before" objection head-on (see Part 4).
+- We meet the "I've abandoned notes apps before" objection head-on (see Part 3).
 
 ## Related
 
