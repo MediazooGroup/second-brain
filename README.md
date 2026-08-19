@@ -29,6 +29,12 @@ Take it apart. Change it, delete half of it, write over the rest.
 
 Start at `INDEX.md`.
 
+## Part 4 — the same idea at business size
+
+`part-4/` holds the kit from the final stream: three more second brains, whole
+and openable. One for an organisation, one for a department, and one for a
+project running at a deadline. Start at `part-4/README.md`.
+
 ## The free series and course
 
 `https://second-brain.finervision.app`
